@@ -125,7 +125,7 @@ repositories:
   catkin:
     type: git
     url: https://github.com/ros-o/catkin.git
-    version: obese-devel
+    version: modernize-python
   catkin_grpc:
     type: git
     url: https://github.com/CogRob/catkin_grpc.git
