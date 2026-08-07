@@ -57,5 +57,8 @@ urdfdom:
 python3-catkin-pkg-modules:
   ubuntu: [python3-catkin-pkg]
 
+python3-rosdep:
+  ubuntu: [python3-rosdep2]
+
 python3-rosdep-modules:
-  ubuntu: [python3-rosdep]
+  ubuntu: [python3-rosdep2]
