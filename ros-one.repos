@@ -352,8 +352,8 @@ repositories:
     version: devel
   image_common:
     type: git
-    url: https://github.com/ros-perception/image_common.git
-    version: noetic-devel
+    url: https://github.com/isys-vision/image_common.git
+    version: obese
   image_pipeline:
     type: git
     url: https://github.com/ros-perception/image_pipeline.git
@@ -1216,8 +1216,8 @@ repositories:
     version: noetic-devel
   vision_opencv:
     type: git
-    url: https://github.com/ros-perception/vision_opencv.git
-    version: noetic
+    url: https://github.com/isys-vision/vision_opencv.git
+    version: obese
   visualization_tutorials:
     type: git
     url: https://github.com/ros-o/visualization_tutorials.git
