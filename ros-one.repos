@@ -152,7 +152,7 @@ repositories:
     version: obese-devel
   collada_urdf:
     type: git
-    url: https://github.com/ros-o/collada_urdf.git
+    url: https://github.com/isys-vision/collada_urdf.git
     version: obese-devel
   common_msgs:
     type: git
