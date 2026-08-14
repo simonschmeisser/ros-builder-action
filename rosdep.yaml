@@ -59,3 +59,6 @@ python3-catkin-pkg-modules:
 
 python3-rosdep-modules:
   ubuntu: [python3-rosdep]
+
+collada-dom:
+  ubuntu: [libcollada-dom-dev]
