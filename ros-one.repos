@@ -468,7 +468,7 @@ repositories:
     version: noetic-devel
   libfranka:
     type: git
-    url: https://github.com/ros-o/libfranka.git
+    url: https://github.com/isys-vision/libfranka.git
     version: fer-roso
   libg2o:
     type: git
