@@ -748,8 +748,8 @@ repositories:
     version: main
   pybind11_catkin:
     type: git
-    url: https://github.com/rhaschke/pybind11_catkin.git
-    version: fixes
+    url: https://github.com/isys-vision/pybind11_catkin.git
+    version: fetch-find-python-pr
   python_qt_binding:
     type: git
     url: https://github.com/ros-o/python_qt_binding.git
