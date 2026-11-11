@@ -300,8 +300,8 @@ repositories:
     version: kinetic-devel
   genpy:
     type: git
-    url: https://github.com/ros/genpy.git
-    version: main
+    url: https://github.com/ros-o/genpy.git
+    version: obese-devel
   geographic_info:
     type: git
     url: https://github.com/ros-geographic-info/geographic_info.git
@@ -812,8 +812,8 @@ repositories:
     version: indigo-devel
   robot_state_publisher:
     type: git
-    url: https://github.com/ros-o/robot_state_publisher.git
-    version: obese-devel
+    url: https://github.com/isys-vision/robot_state_publisher.git
+    version: mikado
   ros:
     type: git
     url: https://github.com/ros/ros.git
@@ -832,8 +832,8 @@ repositories:
     version: melodic-devel
   ros_comm:
     type: git
-    url: https://github.com/ros-o/ros_comm.git
-    version: obese-devel
+    url: https://github.com/cjue/ros_comm.git
+    version: mikado
   ros_comm_msgs:
     type: git
     url: https://github.com/ros/ros_comm_msgs.git
@@ -892,8 +892,8 @@ repositories:
     version: master
   rosbag_snapshot:
     type: git
-    url: https://github.com/ros/rosbag_snapshot.git
-    version: main
+    url: https://github.com/isys-vision/rosbag_snapshot.git
+    version: mikado
   rosbridge_suite:
     type: git
     url: https://github.com/RobotWebTools/rosbridge_suite.git
